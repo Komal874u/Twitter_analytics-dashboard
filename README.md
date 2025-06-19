@@ -1,4 +1,4 @@
-# Twiter analysis dashboard-report
+# Twitter analysis dashboard-report
 
 ### 1. Introduction
 
